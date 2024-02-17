@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sundeep812
+- 👋 Hi, I’m @Sundeepk
 - 👀 I’m interested in Agile, Scrum, Project Mgmt, Release Mgmt, Release Train Engineer
 - 🌱 I’m currently learning Agile
-- 💞️ I’m looking to collaborate on Agile, Project Mgmt, Release Mgmt, Release Train Engineer
+- 💞️ I’m looking to collaborate on Agile, Project Mgmt, Release Mgmt
 - 📫 How to reach me sundeepreddy_k@yahoo.co.in
 
 <!---
